@@ -7,6 +7,11 @@ declare module "vue/types/vue" {
     $electron?: any;
   }
 
+  interface Vue {
+    $http?: any;
+    $electron?: any;
+  }
+
   namespace Vue {
     let $http: any;
     let $electron: any;
