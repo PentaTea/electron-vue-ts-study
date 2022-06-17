@@ -70,7 +70,7 @@
     "cross-env": "^5.0.5",
     "del-cli": "^1.1.0",
     "devtron": "^1.4.0",
-    "electron": "^1.7.5",
+    "electron": "^15.5.5",
     "electron-builder": "^22.7.0",
     "electron-debug": "^1.4.0",
     "electron-webpack": "^1.4.2",
